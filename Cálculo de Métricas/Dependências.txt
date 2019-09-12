@@ -1,0 +1,9 @@
+Para utilizar essas funções, as seguintes bibliotecas são necessárias:
+
+numpy
+igraph
+networkx
+
+Para o tutorial e para facilitar a extração de redes pelo networkx, recomenda-se:
+
+osmnx
